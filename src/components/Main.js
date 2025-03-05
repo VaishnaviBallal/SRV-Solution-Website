@@ -8,7 +8,7 @@ function Main() {
       <main>
         <Services />
         <About />
-        <Contact />
+        {/* <Contact /> */}
       </main>
     </>
   );

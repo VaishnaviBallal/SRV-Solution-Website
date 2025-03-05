@@ -83,7 +83,7 @@ function Navbar() {
                 About
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link
                 onClick={openBar}
                 to="contact"
@@ -94,7 +94,7 @@ function Navbar() {
               >
                 Contact
               </Link>
-            </li>
+            </li> */}
           </ul>
           <div className="button" onClick={openBar}>
             <div className="burger"></div>

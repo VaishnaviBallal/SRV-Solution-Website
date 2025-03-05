@@ -33,9 +33,9 @@ function Footer() {
                   <li>
                   <Link to="about-scroll" spy={true} smooth={true} duration={1000}>About Us  </Link>
                   </li>
-                  <li>
+                  {/* <li>
                   <Link to="contact" spy={true} smooth={true} duration={1000}> Contact  </Link>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
@@ -46,7 +46,7 @@ function Footer() {
                 <p className="footer-title">Contact</p>
                 <ul>
                   <li>
-                    <Link to="#" >srvsolutionsandcreations@gmail.com</Link>
+                    <Link to="#" >HR@SRVSOLUTION.com</Link>
                   </li>
                   <li>
                     <Link to="#" > HR- Swaroop Kumar</Link>
