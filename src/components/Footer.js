@@ -46,14 +46,9 @@ function Footer() {
                 <p className="footer-title">Contact</p>
                 <ul>
                   <li>
-                    <Link to="#" >HR@SRVSOLUTION.com</Link>
+                    <Link to="#" >srvsolutionsandcreations@gmail.com</Link>
                   </li>
-                  <li>
-                    <Link to="#" > HR- Swaroop Kumar</Link>
-                  </li>
-                  <li>
-                    <Link to="#" >8431054103</Link>
-                  </li>
+                 
                 </ul>
               </div>
               <div className="col-md-3">
